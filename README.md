@@ -23,14 +23,3 @@
 ![Visitor Count](https://profile-counter.glitch.me/mete0rxsc/count.svg)
 
 [github-sub-title:img]: https://readme-typing-svg.herokuapp.com?font=Segoe+Script&center=true&lines=Mete0r.
-
-
-<style>
-  body {
-    background-image: url('https://image.koxiuqiu.cc/storage/thumbnails/23/20250501/b3c99ec7586a5f4530be8b4dddb4d39e.png');
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center;
-  }
-</style>
